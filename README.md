@@ -3,6 +3,7 @@
 * HF2: In dit hoofdstuk heb ik Python geïnstalleerd op mijn computer en mijn setup in orde gebracht (anaconda met jupyter)
 * HF3: Dit was het eerste en langste hoofdstuk, 2u02 aan lesmateriaal. Het ging hier vooral over de basis, er waren simpele codeeroefeningen na bijna elk filmpje.
 Op het ende van dit hoofdstuk heb ik een assesment test moeten maken om te kijken of ik alles begreep.
+*HF4: 
 
 
 Chapters 1 and 2 are chapters where you install your python setup.
