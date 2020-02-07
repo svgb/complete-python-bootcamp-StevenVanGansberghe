@@ -1,4 +1,7 @@
 # complete-python-bootcamp
+Ik heb bij elk hoofdstuk alles wat de leraar deed meegedaan in zelfgemaakte notebooks. Deze zitten op volgorde per hoofdstuk en hebben dezelfde benaming als bijhorende video's.
+Het certificaat dat ik van Udemy heb gekregen heb ik bijgevoegd als png.
+
 * HF1: Dit hoofdstuk gaf mij een overzicht van hoe de cursus in elkaar zat, op welke manieren ik ze kon voltooien.
 * HF2: In dit hoofdstuk heb ik Python geïnstalleerd op mijn computer en mijn setup in orde gebracht (anaconda met jupyter)
 * HF3: Dit was het eerste en langste hoofdstuk. Het ging hier vooral over de basis, er waren simpele codeeroefeningen na bijna elk filmpje.
@@ -20,5 +23,4 @@ Op het ende van dit hoofdstuk heb ik een assesment test moeten maken om te kijke
 * HF16: Hoofdstuk 16 ging over objects en data structures. Ook hier was weer een assesment test. (complete-python-bootcamp\16 - Advanced Python Objects and Data Structures\06 - Advanced Python Objects Test).
 * HF17: Hoofdstuk 17 was een bonus hoofdstuk over GUI's
 
-Ik heb bij elk hoofdstuk alles wat de leraar deed meegedaan in zelfgemaakte notebooks. Deze zitten op volgorde bij in elke map.
-Het certificaat dat ik van Udemy heb gekregen heb ik bijgevoegd als png.
+
